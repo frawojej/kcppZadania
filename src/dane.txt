@@ -1,0 +1,2 @@
+Linia 1: zapis do pliku.
+Linia 2: druga linia w pliku.
